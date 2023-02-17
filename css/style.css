@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+.logo{
+    border-radius: 5px;
+}
+
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url("../images/background.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+  
+header.masthead .overlay {
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+}
+  
+header.masthead h1 {
+    font-size: 4rem;
+    color: rgb(14, 230, 219);
+}
+
+header.masthead h3 {
+    font-size: 2rem;
+}
+
+#services{
+   background-color: rgb(53, 118, 204);
+   padding: 10px;
+   margin: 0;
+   padding-bottom: 25px;
+}
+#message{
+   background-color: rgb(189, 155, 82);
+   padding: 10px;
+   margin: 0; 
+}
+
+#paperwork{
+    background-color: #343a40;
+    background: url("../images/background2.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 450px;
+}
+
